@@ -3,6 +3,14 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
  
     <title>Songhui Zhao</title>
+	<style>
+		a{
+			text-decoration:none;
+		}
+		a:hover{
+			text-decoration:underline;
+		}
+	</style>
 </head>
   <body>
 <table border="0" width="100%" id="table1" height="274">
@@ -15,13 +23,13 @@
 		Zhao</font></p>
 		</td><td height="231" rowspan="2">
 		<p align="center">
-		<a href="http://www.dlut.edu.cn/">
-		<img alt="" border="0" src="img/dlut.jpg" width="160" height="162"></a></p></td>
+		<a href="http://en.dlut.edu.cn/">
+		<img alt="Welcome to Dalian University of Technology!" title="Welcome to Dalian University of Technology!" border="0" src="img/dlut.jpg" width="160" height="162"></a></p></td>
 	</tr>
 	<tr>
-		<td width="292" align="left">
+		<td width="300" align="left">
 		<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;WeChat: zsh975583021</p>
-		<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;Email: royol_zsh@outlook.com</p>
+		<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;E-mail: <a href="mailto:royol_zsh@outlook.com">royol_zsh@outlook.com</a></p>
 		</td>
 		</tr>
 	<tr>
@@ -30,7 +38,7 @@
 		<td height="35">
 		<p align="center">
 		<a target="_blank" href="http://oscar-lab.org/">
-		<img alt="" border="0" src="img/oscar.jpg" width="138" height="60"></a></p></td>
+		<img alt="Welcome to OSCAR-Lab!" border="0" src="img/oscar.jpg" width="138" height="60" title="Welcome to OSCAR-Lab!"></a></p></td>
 	</tr>
 </tbody></table>
 
@@ -44,7 +52,7 @@
 	<tr>
 		<td>
 			<p><b><font size="4">Brief Introduction</font></b></p>
-			<p> Now I am an undergraduate student from Dalian University of Technology .My major is software engineering.I will continue my graduate study and my supervisor is Professor Jiang He.<br>
+			<p> Now I am an undergraduate student from <a href="http://en.dlut.edu.cn" target="_blank"><b>Dalian University of Technology</b></a>.My major is software engineering.I will continue my graduate study and my supervisor is Professor <a href="http://faculty.dlut.edu.cn/jianghe/en/index.htm" target="_blank"><b>Jiang He</b></a>.<br>
 			</p>
 		</td>
 	</tr>
@@ -54,7 +62,7 @@
 	<tr>
 		<td>
 			<p><b><font size="4">Research field</font></b></p>
-			<p>Not identified yet.</p>
+			<p>Compiler Test and Optimization.</p>
 		</td>
 	</tr>
 
@@ -67,7 +75,7 @@
 		<td>
 			<p><font size="4"><b>Brief Biography</b></font></p>
 			<li>Sep. 2017 - now   &nbsp;&nbsp;&nbsp;Dalian University of Technology, Master</li>
-				<li>Sep. 2013 - June.2017  Dalian Maritime University, Bachelor</li>
+				<li>Sep. 2013 - June.2017  <a href="http://www.dlmu.edu.cn" target="_blank"><b>Dalian Maritime University</b></a>, Bachelor</li>
 			<li>Sep. 2010 - June.2013  The 2nd Senior High School of Xinmi, Henan Province </li>
 		</td>
 	</tr>
@@ -137,9 +145,9 @@
 		<td>
 		<p><font size="4"><b>Contact Me</b></font></p>
 		<p>
-				<li>E-mail:royol_zsh@outlook.com<br>
-				<li>Addr:6#322  School of Software, Dalian University of Technology, DaLian 116621, China <br>
-				<li>QQ:975583021
+				<li>E-mail: royol_zsh@outlook.com<br>
+				<li>Addr: 6#322, <a href="http://ssdut.dlut.edu.cn/en.htm" target="_blank"><b>School of Software, Dalian University of Technology</b></a>, DaLian 116621, China <br>
+				<li>QQ: 975583021
 		</p>
 		</td>
 	</tr>
@@ -154,6 +162,6 @@
 	</tr>
 </tbody></table>
 <!-- hitwebcounter Code START -->
-Visit Count：<img src="http://hitwebcounter.com/counter/counter.php?page=6797593&style=0038&nbdigits=7&type=page&initCount=7599" title="Home Remedies For Wrinkles" Alt="Home Remedies For Wrinkles"   border="0">
+Visit Count：<img src="http://hitwebcounter.com/counter/counter.php?page=6797593&style=0038&nbdigits=7&type=ip&initCount=7599" title="Home Remedies For Wrinkles" Alt="Home Remedies For Wrinkles"   border="0">
 </body>
 </html>
