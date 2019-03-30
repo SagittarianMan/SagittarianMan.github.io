@@ -25,7 +25,7 @@
 		<td height="231" rowspan="2">
 		<p align="center">
 		<a href="http://www.dlut.edu.cn/" target="_blank">
-		<img alt="欢迎访问大连理工大学主页！" border="0" src="img/dlut.jpg" width="160" height="162" title="欢迎访问大连理工大学主页！"></a></p></td>
+		<img alt="欢迎访问大连理工大学主页！" border="0" src="img/dlut.jpg" width="162" height="162" title="欢迎访问大连理工大学主页！"></a></p></td>
 	</tr>
 	<tr>
 		<td width="300" align="left">
@@ -37,10 +37,11 @@
 	<tr>
 		<td width="290" align="left">
 		<p align="center"><a target="_self" href="index.html">[English]</a></p></td>
-		<td height="35">
+
+		<td height="110">
 		<p align="center">
 		<a target="_blank" href="http://oscar-lab.org/chn/index.htm">
-		<img alt="欢迎访问大连理工大学软件优化组!" border="0" src="img/oscar.jpg" width="138" height="60" title="欢迎访问大连理工大学软件优化组!"></a></p></td>
+		<img alt="欢迎访问大连理工大学软件优化组!" border="0" src="img/top.gif" width="805" height="106" title="欢迎访问大连理工大学软件优化组!"></a></p></td>
 	</tr>
 </tbody></table>
 
@@ -62,7 +63,7 @@
 	</tr>
 	<tr>
 		<td>
-			编译器测试与优化<br>
+			编译器测试与优化，演化计算，程序分析<br>
 			</td>
 	</tr>
 
@@ -73,8 +74,8 @@
 
 	<tr>
 		<td>
-				<li>2017.9——现在 &nbsp;大连理工大学</li>
-				<li>2013.9——2017.6 <a href="http://www.dlmu.edu.cn" target="_blank">大连海事大学</a></li>
+				<li>2017.9——2020.6 大连理工大学</li>
+				<li>2013.9——2017.6 <a href="http://www.dlmu.edu.cn" target="_blank"><b>大连海事大学</b></a></li>
 				<li>2010.9——2013.6 河南省新密市第二高级中学</li>
 			
 		</td>
@@ -87,11 +88,17 @@
 
 	<tr>
 		<td>
-			<li>2013-2014   国家励志奖学金<br>
+			<li>2013-2014   &nbsp;&nbsp;国家励志奖学金<br>
 				</li>
-			<li>2014-2015   大连海事大学三好学生、国家励志奖学金<br>
+			<li>2014-2015   &nbsp;&nbsp;大连海事大学三好学生、国家励志奖学金<br>
                 </li>
-			<li>2015-2016   国家励志奖学金<br>
+			<li>2015-2016   &nbsp;&nbsp;国家励志奖学金<br>
+				</li>
+				<li>2017.6   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大连海事大学优秀毕业生<br>
+				</li>
+				<li>2017.10   &nbsp;&nbsp;&nbsp;&nbsp;大连理工大学硕士研究生二等学业奖学金<br>
+				</li>
+				<li>2018.10   &nbsp;&nbsp;&nbsp;&nbsp;大连理工大学硕士研究生一等学业奖学金<br>
 				</li>
 				</td>
 	</tr>
@@ -138,7 +145,7 @@
 		<td>
 		<p>
 				</p><li>电子邮件:<a href="mailto:royol_zsh@outlook.com">royol_zsh@outlook.com</a><br>
-				</li><li>地址:大连市经济技术开发区图强街321号<a href="http://ssdut.dlut.edu.cn/" target="_blank"><b>大连理工大学软件学院</b></a>6舍322室 <br>
+				</li><li>地址:大连市经济技术开发区图强街321号<a href="https://j.map.baidu.com/w-gAP" target="_blank"><b>大连理工大学软件学院</b></a>6舍322室 <br>
 				</li>
 				<li>邮编:116621<br>
 				<li>QQ:975583021
@@ -148,11 +155,11 @@
 
 
 	<tr>
-		<td bgcolor="#006699">　</td>
+		<td bgcolor="#006699"><font size="4" color="#fff"><b>--</b></font>　　</td>
 	</tr>
 	<tr>
 		<td>
-		最近一次更新: 2017-11-1</td>
+		最近一次更新: 2019-03-30</td>
 	</tr>
 </tbody></table>
 
